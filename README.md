@@ -69,6 +69,7 @@
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -80,6 +81,7 @@
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 # Greedy
 |  |
