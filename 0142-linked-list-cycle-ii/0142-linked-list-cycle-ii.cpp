@@ -9,21 +9,40 @@
 class Solution {
 public:
     ListNode* detectCycle(ListNode* head) {
+        if (!head || !head->next)
+            return nullptr;
+
         ListNode *slow = head, *fast = head;
 
         while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
+
             if (slow == fast) {
-                fast = head;
-                while (slow != fast) {
-                    slow = slow->next;
+                ListNode* ptr = head;
+                while (ptr != fast) {
+                    ptr = ptr->next;
                     fast = fast->next;
                 }
-                return slow;
+                return ptr;
             }
         }
-
         return nullptr;
+        /*
+        HASHMAP METHOD
+
+        if(!head || !head->next)
+            return nullptr;
+
+        unordered_map<ListNode*, bool> mp;
+        ListNode* ptr = head;
+        while (ptr != nullptr) {
+            if (mp[ptr] == true)
+                return ptr;
+            mp[ptr] = true;
+            ptr = ptr->next;
+        }
+        return nullptr;
+        */
     }
 };
