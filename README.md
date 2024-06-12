@@ -67,6 +67,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 # String
 |  |
@@ -105,6 +106,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 # Trie
 |  |
 | ------- |
