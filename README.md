@@ -45,6 +45,7 @@
 | [0141-linked-list-cycle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Array
 |  |
@@ -58,6 +59,7 @@
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
