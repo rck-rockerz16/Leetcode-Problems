@@ -21,3 +21,11 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+# Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+# Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
