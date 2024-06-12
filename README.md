@@ -23,6 +23,7 @@
 | [0007-reverse-integer](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 # Two Pointers
@@ -71,6 +72,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
