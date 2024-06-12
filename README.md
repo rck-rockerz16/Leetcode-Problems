@@ -127,6 +127,7 @@
 | [0058-length-of-last-word](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0812-rotate-string) |
 # Trie
 |  |
 | ------- |
