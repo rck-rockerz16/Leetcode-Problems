@@ -16,6 +16,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0231-power-of-two) |
 # Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0069-sqrtx](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 # Two Pointers
 |  |
@@ -101,6 +103,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 # Number Theory
 |  |
