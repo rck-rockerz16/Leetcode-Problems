@@ -35,6 +35,7 @@
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 # Binary Search
 |  |
 | ------- |
@@ -48,3 +49,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
+# Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
