@@ -68,11 +68,11 @@ bool Solve = [](){
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
-        if (!head->next) {
+        if (!head->next) { // List containing one element
             head = nullptr;
             return head;
         }
-        if (!head->next->next) {
+        if (!head->next->next) { //List containing two element
             head->next = nullptr;
             return head;
         }
