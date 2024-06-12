@@ -18,11 +18,13 @@
 | [0002-add-two-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
 # Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
 # Array
 |  |
 | ------- |
@@ -30,6 +32,7 @@
 | [0048-rotate-image](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
 # Binary Search
 |  |
 | ------- |
