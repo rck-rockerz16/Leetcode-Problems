@@ -55,3 +55,19 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+# String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+# Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+# Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
