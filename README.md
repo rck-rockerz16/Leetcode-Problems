@@ -27,6 +27,7 @@
 | [0002-add-two-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0069-sqrtx) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -123,6 +125,7 @@
 # String Matching
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0058-length-of-last-word) |
