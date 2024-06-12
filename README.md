@@ -34,6 +34,7 @@
 | [0168-excel-sheet-column-title](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [2032-largest-odd-number-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 # Two Pointers
 |  |
@@ -115,6 +116,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2032-largest-odd-number-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0125-valid-palindrome](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0812-rotate-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [2032-largest-odd-number-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 # Trie
 |  |
 | ------- |
