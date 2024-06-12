@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -71,3 +72,4 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
