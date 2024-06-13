@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        if (head == nullptr)
+        if (head == nullptr || head->next == nullptr)
             return head;
         ListNode* newHead = new ListNode(0, head);
         ListNode *curr = newHead, *ptr = head;
@@ -21,12 +21,44 @@ public:
                 while (ptr->next != nullptr && ptr->val == ptr->next->val)
                     ptr = ptr->next;
                 curr->next = ptr->next;
-            } else 
+            } else
                 curr = curr->next;
-                
+
             ptr = ptr->next;
         }
 
         return newHead->next;
+
+        /*
+        ALTERNATE SOLN
+        
+        if(head -> val == head -> next -> val){
+
+            while(head && head -> next && head -> val == head -> next -> val){
+                while(head -> next && head -> val == head -> next -> val){
+                    head = head -> next ; 
+                }
+                head = head -> next ;
+            } 
+        }
+
+        ListNode* curr = head ;
+        while(curr){
+
+            if(curr -> next && curr -> next -> next && curr -> next -> val == curr -> next -> next -> val){
+                
+                ListNode* nextNode = curr -> next ;
+                int data = nextNode -> val ;  
+                while(nextNode && nextNode -> val == data){
+                    nextNode = nextNode -> next ; 
+                }
+                curr -> next = nextNode ; 
+            }
+            else
+                curr = curr -> next ; 
+        }
+
+        return head ;
+        */
     }
 };
