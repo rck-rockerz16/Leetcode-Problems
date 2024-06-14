@@ -11,6 +11,35 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ListNode* dummy = new ListNode();
+        ListNode* ptr = dummy;
+        int carry = 0;
+
+        while (l1 != nullptr || l2 != nullptr) {
+            int sum = carry;
+
+            if (l1 != nullptr) {
+                sum += l1->val;
+                l1 = l1->next;
+            }
+            if (l2 != nullptr) {
+                sum += l2->val;
+                l2 = l2->next;
+            }
+
+            carry = (sum > 9) ? 1 : 0;
+
+            ptr->next = new ListNode(sum % 10);
+            ptr = ptr->next;
+        }
+
+        if (carry != 0)
+            ptr->next = new ListNode(carry);
+
+        return dummy->next;
+        /*
+        ALTERNATE SOLN
+
         ListNode* temp = new ListNode();
         ListNode* curr = temp;
         int carry = 0;
@@ -30,5 +59,6 @@ public:
         }
 
         return temp->next;
+        */
     }
 };
