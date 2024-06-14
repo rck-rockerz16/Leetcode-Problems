@@ -16,12 +16,12 @@ public:
         int carry = 0;
 
         while (l1 || l2 || carry) {
-            int val1 = (l1) ? l1->val : 0;
-            int val2 = (l2) ? l2->val : 0;
+            int a = (l1 != nullptr) ? l1->val : 0;
+            int b = (l2 != nullptr) ? l2->val : 0;
 
-            int total = val1 + val2 + carry;
-            carry = total / 10;
-            int digit = total % 10;
+            int sum = a + b + carry;
+            carry = (sum > 9) ? 1 : 0;
+            int digit = sum % 10;
 
             ptr->next = new ListNode(digit);
             ptr = ptr->next;
