@@ -150,6 +150,7 @@
 | [0812-rotate-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [3379-score-of-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/3379-score-of-a-string) |
 # Trie
 |  |
 | ------- |
