@@ -33,7 +33,7 @@ public:
             ptr = ptr->next;
         }
 
-        if (carry ==1)
+        if (carry)
             ptr->next = new ListNode(carry);
 
         return dummy->next;
