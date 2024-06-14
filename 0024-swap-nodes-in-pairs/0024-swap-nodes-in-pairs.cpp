@@ -13,11 +13,11 @@ public:
     ListNode* swapPairs(ListNode* head) {
         if (head == nullptr || head->next == nullptr)
             return head;
-        ListNode* remHead = swapPairs(head->next->next);
         ListNode* temp = head->next;
+        head->next = swapPairs(head->next->next);
         temp->next = head;
-        head->next = remHead;
-        /* head = temp; We can also point the existing head to the actual head
+        /* head = temp; 
+        We can also point the existing head to the actual head
         of the list or just return the temp which is the head */
         return temp;
     }
