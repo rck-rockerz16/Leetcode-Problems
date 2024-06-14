@@ -11,21 +11,25 @@ int init = [] {
         int n = 0;
         for (int _i = 1, _n = s.length(); _i < _n; ++_i) {
             bool _neg = false;
-            if (s[_i] == '-') ++_i, _neg = true;
+            if (s[_i] == '-')
+                ++_i, _neg = true;
             int v = s[_i++] & 15;
-            while ((s[_i] & 15) < 10) v = v * 10 + (s[_i++] & 15);
-            if (_neg) v = -v;
+            while ((s[_i] & 15) < 10)
+                v = v * 10 + (s[_i++] & 15);
+            if (_neg)
+                v = -v;
             a[n++] = v;
         }
-    
-        int i=0,j=n-1;
-        out<<'[';
-        while(i<j){
-            out<<a[i++]<<','<<a[j--]<<",";
+
+        int i = 0, j = n - 1;
+        out << '[';
+        while (i < j) {
+            out << a[i++] << ',' << a[j--] << ",";
         }
-        if(i==j) out<<a[i]<<',';
-        out.seekp(-1,ios::end);
-        out<<"]\n";
+        if (i == j)
+            out << a[i] << ',';
+        out.seekp(-1, ios::end);
+        out << "]\n";
     }
     out.flush();
     exit(0);
@@ -49,7 +53,7 @@ public:
 
         stack<ListNode*> st;
         ListNode* curr = head;
-        
+
         while (curr) {
             st.push(curr);
             curr = curr->next;
