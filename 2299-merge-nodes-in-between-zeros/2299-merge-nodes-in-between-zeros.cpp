@@ -11,20 +11,20 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
-        ListNode* dummy = new ListNode(-1);
-        ListNode* curr = dummy;
-        ListNode* ptr = head->next;
+        ListNode dummy(-1);
+        ListNode* curr = &dummy;
         int sum = 0;
-        while (ptr != nullptr) {
+
+        for (ListNode* ptr = head->next; ptr != nullptr; ptr = ptr->next) {
+            sum += ptr->val;
             if (ptr->val == 0) {
                 curr->next = new ListNode(sum);
                 curr = curr->next;
                 sum = 0;
-            } else 
-                sum += ptr->val;
-                
-            ptr = ptr->next;
+            }
         }
-        return dummy->next;
+
+
+        return dummy.next;
     }
 };
