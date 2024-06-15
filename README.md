@@ -18,6 +18,7 @@
 | [0234-palindrome-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+| [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -80,6 +81,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -109,6 +111,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
 # String
 |  |
 | ------- |
