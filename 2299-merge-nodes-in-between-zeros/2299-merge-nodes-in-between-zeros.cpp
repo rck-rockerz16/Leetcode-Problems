@@ -18,12 +18,10 @@ public:
         for (ListNode* ptr = head->next; ptr != nullptr; ptr = ptr->next) {
             sum += ptr->val;
             if (ptr->val == 0) {
-                curr->next = new ListNode(sum);
-                curr = curr->next;
+                curr = curr->next = new ListNode(sum);
                 sum = 0;
             }
         }
-
 
         return dummy.next;
     }
