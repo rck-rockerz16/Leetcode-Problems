@@ -14,7 +14,7 @@ public:
             i++;
 
         while (i < s.length()) {
-            if (isdigit(s[i])) {
+            if (s[i] >= '0' && s[i] <= '9') {
                 num = num * 10 + (s[i] - '0');
                 if (num > INT_MAX && sign == -1)
                     return INT_MIN;
