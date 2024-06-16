@@ -87,6 +87,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2714-left-and-right-sum-differences](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 # Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 # String
 |  |
 | ------- |
