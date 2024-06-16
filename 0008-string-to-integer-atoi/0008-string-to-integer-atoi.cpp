@@ -4,26 +4,27 @@ public:
         int i = 0, sign = 1;
         long num = 0;
 
+        if (isalpha(s[0]))
+            return num;
+            
         while (i < s.length() && s[i] == ' ')
             i++;
 
-        if (s[i] == '-') {
-            sign = -1;
+        if (s[i] == '-' || s[i] == '+') {
+            sign = (s[i] == '-') ? -1 : 1;
             i++;
-        } else if (s[i] == '+')
-            i++;
-
-        while (i < s.length()) {
-            if (s[i] >= '0' && s[i] <= '9') {
-                num = num * 10 + (s[i] - '0');
-                if (num > INT_MAX && sign == -1)
-                    return INT_MIN;
-                else if (num > INT_MAX && sign == 1)
-                    return INT_MAX;
-                i++;
-            } else
-                return sign * num;
         }
+
+        while (i < s.length() && isdigit(s[i])) {
+            int digit = s[i] - '0';
+
+            if (num > (INT_MAX - digit) / 10)
+                return (sign == -1) ? INT_MIN : INT_MAX;
+
+            num = num * 10 + digit;
+            i++;
+        }
+
         return sign * num;
     }
 };
