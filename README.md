@@ -82,6 +82,7 @@
 | [0485-max-consecutive-ones](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
+| [1603-running-sum-of-1d-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -179,4 +180,5 @@
 # Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
