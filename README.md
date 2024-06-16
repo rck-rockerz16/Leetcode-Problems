@@ -85,6 +85,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2714-left-and-right-sum-differences](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 # Binary Search
 |  |
 | ------- |
@@ -175,3 +176,7 @@
 | [0067-add-binary](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0067-add-binary) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
+# Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
