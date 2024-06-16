@@ -2,6 +2,13 @@ class Solution {
 public:
     vector<int> leftRightDifference(vector<int>& nums) {
         int n = nums.size();
+
+        if (n == 0)
+            return vector<int>{};
+        if (n == 1)
+            return vector<int>{0};
+           
+            
         vector<int> leftSum(n, 0), rightSum(n, 0), answer(n, 0);
         int i = 1, j = n - 2;
         while (i < n && j >= 0) {
