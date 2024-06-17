@@ -103,6 +103,7 @@
 | [0792-binary-search](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [1505-create-target-array-in-the-given-order](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [1580-shuffle-the-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1839-decode-xored-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
