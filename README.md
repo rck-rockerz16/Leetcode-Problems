@@ -82,6 +82,7 @@
 | [0048-rotate-image](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
