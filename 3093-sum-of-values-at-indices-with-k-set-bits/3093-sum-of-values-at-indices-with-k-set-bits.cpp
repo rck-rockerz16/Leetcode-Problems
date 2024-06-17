@@ -9,6 +9,18 @@ private:
             index = index >> 1;
         }
         return cnt == k;
+        /*
+        bitset<32> bs(index); 
+        string binaryString = bs.to_string(); 
+        
+        int cnt = 0;
+        for (char bit : binaryString) {
+            if (bit == '1') {
+                cnt++;
+            }
+        }
+        return cnt == k;
+        */
     }
 
 public:
