@@ -100,6 +100,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [1505-create-target-array-in-the-given-order](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -120,6 +121,7 @@
 | [0162-find-peak-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0792-binary-search) |
 # Matrix
 |  |
 | ------- |
