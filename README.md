@@ -174,6 +174,7 @@
 | [0125-valid-palindrome](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0812-rotate-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2032-largest-odd-number-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3379-score-of-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/3379-score-of-a-string) |
@@ -193,3 +194,7 @@
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+# Counting
+|  |
+| ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
