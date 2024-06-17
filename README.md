@@ -86,6 +86,7 @@
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
 # Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0141-linked-list-cycle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
@@ -209,4 +212,9 @@
 # Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
