@@ -134,6 +134,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 # Stack
 |  |
@@ -154,6 +155,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
