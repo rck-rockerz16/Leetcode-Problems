@@ -36,6 +36,7 @@
 | [0206-reverse-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 # Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0231-power-of-two](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
+| [1013-fibonacci-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2812-find-the-maximum-achievable-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
@@ -158,6 +160,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1013-fibonacci-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 # Stack
 |  |
 | ------- |
@@ -238,3 +241,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0182-duplicate-emails) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1013-fibonacci-number) |
