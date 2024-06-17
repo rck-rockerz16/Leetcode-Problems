@@ -12,8 +12,8 @@ private:
 
 public:
     vector<int> countBits(int n) {
-        vector<int> ans(n + 1);
-        for (int i = 0; i < n + 1; i++) {
+        vector<int> ans(n + 1, 0);
+        for (int i = 1; i < n + 1; i++) {
             ans[i] = countNoOfOne(i);
         }
         return ans;
