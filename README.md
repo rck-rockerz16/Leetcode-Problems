@@ -171,6 +171,7 @@
 | [0143-reorder-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1078-remove-outermost-parentheses](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 # Greedy
 |  |
@@ -210,6 +211,7 @@
 | [0344-reverse-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2032-largest-odd-number-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
