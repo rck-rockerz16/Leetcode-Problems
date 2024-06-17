@@ -122,6 +122,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0242-valid-anagram) |
 # Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -191,6 +193,7 @@
 | [0067-add-binary](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2032-largest-odd-number-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
