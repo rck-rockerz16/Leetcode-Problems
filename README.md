@@ -14,6 +14,7 @@
 | [0141-linked-list-cycle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -66,6 +67,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -123,6 +125,7 @@
 | [0013-roman-to-integer](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
