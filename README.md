@@ -50,6 +50,7 @@
 | [0168-excel-sheet-column-title](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -90,6 +91,7 @@
 | [0162-find-peak-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +114,7 @@
 | [0035-search-insert-position](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 # Matrix
 |  |
@@ -123,6 +126,7 @@
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0268-missing-number) |
 # Hash Table
 |  |
 | ------- |
@@ -134,6 +138,7 @@
 | [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -173,6 +178,7 @@
 | [0136-single-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1839-decode-xored-array) |
