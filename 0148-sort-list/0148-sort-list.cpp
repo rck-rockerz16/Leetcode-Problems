@@ -38,16 +38,7 @@ private:
                 right = right->next;
             }
         }
-        while (left) {
-            ptr->next = left;
-            ptr = left;
-            left = left->next;
-        }
-        while (right) {
-            ptr->next = right;
-            ptr = right;
-            right = right->next;
-        }
+        ptr->next = left ? left : right;
         return dummy->next;
     }
 
