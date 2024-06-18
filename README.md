@@ -21,6 +21,7 @@
 | [0234-palindrome-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -263,3 +264,11 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0148-sort-list) |
+# Depth-First Search
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
