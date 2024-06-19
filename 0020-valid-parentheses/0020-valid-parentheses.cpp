@@ -3,23 +3,39 @@ public:
     bool isValid(string s) {
         stack<char> stck;
         int size = s.size();
-        if (size == 1 || size == 0) {
-            return false;
+        
+        if (size % 2 != 0) {
+            return false; 
         }
+        
         for (int i = 0; i < size; i++) {
-            if (s[i] == '(' || s[i] == '{' || s[i] == '[' || stck.empty())
-                stck.push(s[i]);
-            else if (s[i] == ')' && stck.top() == '(')
-                stck.pop();
-            else if (s[i] == '}' && stck.top() == '{')
-                stck.pop();
-            else if (s[i] == ']' && stck.top() == '[')
-                stck.pop();
-            else
-                stck.push(s[i]);
+            switch (s[i]) {
+                case '(':
+                case '{':
+                case '[':
+                    stck.push(s[i]);
+                    break;
+                case ')':
+                    if (stck.empty() || stck.top() != '(')
+                        return false;
+                    stck.pop();
+                    break;
+                case '}':
+                    if (stck.empty() || stck.top() != '{')
+                        return false;
+                    stck.pop();
+                    break;
+                case ']':
+                    if (stck.empty() || stck.top() != '[')
+                        return false;
+                    stck.pop();
+                    break;
+                default:
+                    // If there's any other character, it's invalid
+                    return false;
+            }
         }
-        if (stck.empty())
-            return true;
-        return false;
+        
+        return stck.empty(); 
     }
 };
