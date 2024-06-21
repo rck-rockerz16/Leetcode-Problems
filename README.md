@@ -96,6 +96,7 @@
 | [0066-plus-one](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 # Sorting
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -176,6 +179,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -280,3 +284,4 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
