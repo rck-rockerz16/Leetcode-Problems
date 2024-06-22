@@ -109,6 +109,7 @@
 | [0792-binary-search](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [1505-create-target-array-in-the-given-order](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [1552-build-an-array-with-stack-operations](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1839-decode-xored-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1839-decode-xored-array) |
@@ -184,6 +185,7 @@
 | [0234-palindrome-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1552-build-an-array-with-stack-operations](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 # Greedy
 |  |
@@ -239,6 +241,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0067-add-binary) |
 | [1505-create-target-array-in-the-given-order](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [1552-build-an-array-with-stack-operations](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 # Prefix Sum
