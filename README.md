@@ -23,6 +23,7 @@
 | [0328-odd-even-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
+| [0859-design-circular-deque](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -108,6 +109,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0835-linked-list-components) |
+| [0859-design-circular-deque](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [1505-create-target-array-in-the-given-order](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
@@ -288,3 +290,11 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+# Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0859-design-circular-deque) |
+# Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0859-design-circular-deque) |
