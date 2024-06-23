@@ -2,13 +2,15 @@ class MyCircularDeque {
 private:
     int* Deque;
     int size;
-    int front = -1;
-    int rear = -1;
+    int front;
+    int rear;
 
 public:
     MyCircularDeque(int k) {
-        size = k;
+        this->size = k;
         Deque = new int[size];
+        this->front = -1;
+        this->rear = -1;
     }
 
     bool insertFront(int value) {
