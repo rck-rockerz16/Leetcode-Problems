@@ -189,6 +189,7 @@
 | [0143-reorder-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 # Bit Manipulation
@@ -231,6 +233,7 @@
 | [0344-reverse-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
