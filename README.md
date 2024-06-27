@@ -301,12 +301,14 @@
 | ------- |
 | [0859-design-circular-deque](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 # Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 # Sliding Window
 |  |
 | ------- |
@@ -319,3 +321,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+# Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
