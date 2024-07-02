@@ -331,6 +331,7 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [1651-shuffle-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1651-shuffle-string) |
 ## Math
 |  |
 | ------- |
@@ -339,6 +340,7 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [1651-shuffle-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1651-shuffle-string) |
 ## Sorting
 |  |
 | ------- |
