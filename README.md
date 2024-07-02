@@ -325,3 +325,22 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+## Math
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+## String
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+<!---LeetCode Topics End-->
