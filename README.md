@@ -332,6 +332,7 @@
 | ------- |
 | [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1651-shuffle-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -341,8 +342,17 @@
 | ------- |
 | [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1651-shuffle-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+## Hash Table
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
