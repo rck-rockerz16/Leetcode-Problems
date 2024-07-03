@@ -333,10 +333,12 @@
 | [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1651-shuffle-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
