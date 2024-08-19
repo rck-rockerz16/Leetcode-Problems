@@ -349,6 +349,7 @@
 | [1651-shuffle-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2235-capitalize-the-title](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2235-capitalize-the-title) |
+| [2365-percentage-of-letter-in-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2365-percentage-of-letter-in-string) |
 ## Sorting
 |  |
 | ------- |
