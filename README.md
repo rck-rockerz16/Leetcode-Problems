@@ -345,6 +345,7 @@
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0065-valid-number) |
 | [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1651-shuffle-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
