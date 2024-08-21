@@ -338,6 +338,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -415,4 +416,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
