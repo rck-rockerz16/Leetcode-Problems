@@ -4,30 +4,40 @@ private:
                       unordered_map<TreeNode*, TreeNode*>& childToParent) {
         if (!root)
             return;
+
         queue<TreeNode*> nodeQueue;
         nodeQueue.push(root);
+
         while (!nodeQueue.empty()) {
             TreeNode* curr = nodeQueue.front();
             nodeQueue.pop();
+
             if (curr->left) {
-                nodeQueue.push(curr->left);
                 childToParent[curr->left] = curr;
+                nodeQueue.push(curr->left);
             }
+
             if (curr->right) {
-                nodeQueue.push(curr->right);
                 childToParent[curr->right] = curr;
+                nodeQueue.push(curr->right);
             }
         }
     }
-    void
-    find_nodes_distanceK(TreeNode* root, TreeNode* target, int k,
-                         queue<TreeNode*>& nodeQueue,
-                         unordered_map<TreeNode*, TreeNode*>& childToParent) {
 
-        unordered_map<TreeNode*, bool> visitedNode;
-        nodeQueue.push(target);
-        visitedNode[target] = true;
+public:
+    vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
+        if (k == 0)
+            return {target->val};
+
+        unordered_map<TreeNode*, TreeNode*> childToParent;
+        find_parents(root, childToParent);
+
+        unordered_set<TreeNode*> visited;
+        queue<TreeNode*> nodeQueue;
+        nodeQueue.push(target), visited.insert(target);
+
         int curr_dist = 0;
+
         while (!nodeQueue.empty()) {
             if (curr_dist == k)
                 break;
@@ -38,38 +48,24 @@ private:
                 TreeNode* curr = nodeQueue.front();
                 nodeQueue.pop();
 
-                if (curr->left && !visitedNode[curr->left]) {
-                    nodeQueue.push(curr->left);
-                    visitedNode[curr->left] = true;
-                }
+                if (curr->left && visited.find(curr->left) == visited.end())
+                    nodeQueue.push(curr->left), visited.insert(curr->left);
 
-                if (curr->right && !visitedNode[curr->right]) {
-                    nodeQueue.push(curr->right);
-                    visitedNode[curr->right] = true;
-                }
+                if (curr->right && visited.find(curr->right) == visited.end())
+                    nodeQueue.push(curr->right), visited.insert(curr->right);
 
-                TreeNode* parentNode = childToParent[curr];
-                if (parentNode && !visitedNode[parentNode]) {
-                    nodeQueue.push(parentNode);
-                    visitedNode[parentNode] = true;
-                }
+                TreeNode* parent = childToParent[curr];
+                if (parent && visited.find(parent) == visited.end())
+                    nodeQueue.push(parent), visited.insert(parent);
             }
         }
-    }
 
-public:
-    vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode*, TreeNode*> childToParent;
-        find_parents(root, childToParent);
-
-        queue<TreeNode*> nodeQueue;
-        find_nodes_distanceK(root, target, k, nodeQueue, childToParent);
-
-        vector<int> ans;
+        vector<int> result;
         while (!nodeQueue.empty()) {
-            ans.push_back(nodeQueue.front()->val);
+            result.push_back(nodeQueue.front()->val);
             nodeQueue.pop();
         }
-        return ans;
+
+        return result;
     }
 };
