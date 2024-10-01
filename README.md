@@ -331,6 +331,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0539-minimum-time-difference](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1651-shuffle-string](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -438,4 +439,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/rck-rockerz16/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
